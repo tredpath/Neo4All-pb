@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emulation version="1">
+<key x="365" y="10" width="30" height="30" sym="9">
+<label x="0" y="0" width="30" height="30" image="media/select.png"/>
+</key>
+<key x="365" y="31" width="30" height="30" sym="13">
+<label x="0" y="0" width="30" height="30" image="media/start.png"/>
+</key>
+
+<key x="320" y="110" width="30" height="30" sym="304">
+<label x="0" y="0" width="30" height="30" image="media/green.png"/>
+</key>
+<key x="355" y="95" width="30" height="30" sym="32">
+<label x="0" y="0" width="30" height="30" image="media/blue.png"/>
+</key>
+<key x="335" y="145" width="30" height="30" sym="306">
+<label x="0" y="0" width="30" height="30" image="media/red.png"/>
+</key>
+<key x="370" y="130" width="30" height="30" sym="308">
+<label x="0" y="0" width="30" height="30" image="media/yellow.png"/>
+</key>
+
+<key x="1" y="1" width="30" height="30" sym="286" image="media/rom.png">
+</key>
+
+<dpad x="1" y="120" width="90" height="90">
+<label x="0" y="0" width="90" height="90" image="media/dpad.png"/>
+</dpad>
+</emulation>
